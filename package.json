@@ -1,0 +1,21 @@
+{
+  "name": "terrain",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^7.3.0",
+    "svelte": "^5.56.10",
+    "vite": "^8.2.2"
+  },
+  "dependencies": {
+    "maplibre-gl": "^6.6.0",
+    "pmtiles": "^4.5.0"
+  }
+}

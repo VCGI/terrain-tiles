@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #e8e6df;
+    font-family: Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif;
+}
+
+.maplibregl-ctrl-top-left {
+    margin: 10px;
+}
+
+.maplibregl-ctrl-group {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+    overflow: hidden;
+}
+
+.maplibregl-ctrl-group button {
+    width: 34px;
+    height: 34px;
+}
