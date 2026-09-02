@@ -116,7 +116,7 @@ export function buildStyle() {
             },
             hillshadeSource: {
                 type: 'raster-dem',
-                url: 'pmtiles://https://vtopendata-dev.s3.us-east-2.amazonaws.com/terrain-tiles/vermont-v2.pmtiles',
+                url: 'pmtiles://https://s3.us-east-2.amazonaws.com/vtopendata-prd/Elevation/STATEWIDE_2023_35cm_DEMHF_TERRARIUM.pmtiles',
                 encoding: 'terrarium',
                 tileSize: 512,
                 attribution: 'VCGI | USGS',
