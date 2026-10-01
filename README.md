@@ -77,6 +77,11 @@ $$E = \left(r \times 256 + g + \frac{b}{256}\right) - 32768$$
 - [Mapterhorn](https://mapterhorn.com/attribution) — global 1m DEM
 - [MapLibre GL JS](https://maplibre.org/) — map rendering
 - Cloud storage and egress for the statewide terrain PMTiles are generously provided by AWS.
+
+## AI Disclosure
+
+This application was developed with the assistance of generative artificial intelligence (Anthropic Claude). The content has been reviewed and verified to be accurate.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
