@@ -7,7 +7,7 @@
 
 An interactive terrain map of Vermont, built with [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) and Svelte 5.
 
-![Screenshot of the Vermont Terrain app showing a 3D surface-model view of a ski area](public/social-preview.jpg)
+![Screenshot of the Vermont Terrain app showing a 3D surface-model view of a ski area, with the controls panel open](public/readme-screenshot.jpg)
 
 ## Features
 
